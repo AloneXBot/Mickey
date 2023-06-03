@@ -18,7 +18,7 @@ DEV_OP = [
         InlineKeyboardButton(text="🚀 ʜᴇʟᴘ & ᴄᴍᴅs 🚀", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="❄️ sᴏᴜʀᴄᴇ ❄️", url=f"https://t.me/ALONE_WAS_BOT),
+        InlineKeyboardButton(text="❄️ sᴏᴜʀᴄᴇ ❄️", url=f"https://t.me/ALONE_WAS_BOT"),
         InlineKeyboardButton(text="☁️ ᴀʙᴏᴜᴛ ☁️", callback_data="ABOUT"),
     ],
 ]
@@ -120,7 +120,7 @@ ABOUT_BTN = [
     ],
     [
         InlineKeyboardButton(text="🍾 ᴏᴡɴᴇʀ 🍾", user_id=OWNER),
-        InlineKeyboardButton(text="❄️ sᴏᴜʀᴄᴇ ❄️", url=f"https://t.me/ALONE_WAS_BOT),
+        InlineKeyboardButton(text="❄️ sᴏᴜʀᴄᴇ ❄️", url=f"https://t.me/ALONE_WAS_BOT"),
     ],
     [
         InlineKeyboardButton(text="🐳 ᴜᴘᴅᴀᴛᴇs 🐳", url=f"https://t.me/{UPDATE_CHNL}"),
