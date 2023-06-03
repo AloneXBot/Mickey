@@ -58,7 +58,7 @@ dev = Client(
     # plugins=dict(root="Mickey.modules"),
 )
 
-dev.start()
+dev.astart()
 
 BOT_ID = config.BOT_TOKEN.split(":")[0]
 x = dev.get_me()
